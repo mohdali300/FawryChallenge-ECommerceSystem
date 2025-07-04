@@ -48,17 +48,16 @@ namespace E_CommerceSystem.Services
 
         public double CalculateShipping(List<CartItem> items)
         {
-            double totalGrams = 0;
+            double totalKGs = 0;
 
             foreach (var item in items)
             {
                 if (item.Product is IShippable shippable)
                 {
-                    totalGrams += shippable.Weight * item.Quantity;
+                    totalKGs += shippable.Weight * item.Quantity;
                 }
             }
 
-            double totalKGs = totalGrams / 1000.0;
             double shippingFeePerKg = 15.0;
 
             return totalKGs * shippingFeePerKg;

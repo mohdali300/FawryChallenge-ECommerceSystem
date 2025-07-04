@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\",
+  "WorkspaceRootPath": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\services\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\services\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:services\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\interfaces\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\interfaces\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:interfaces\\ishippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\expirableshippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\expirableshippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\expirableshippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\shippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\shippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\shippableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\models\\expirableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\models\\expirableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:models\\expirableproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\e-commercesystem\\interfaces\\iexpirable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|d:\\projects\\c#\\fawryinternship\\src\\fawrychallenge-ecommercesystem\\e-commercesystem\\interfaces\\iexpirable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FFEA9E-4F23-4B70-8F1F-87C3120E52D0}|E-CommerceSystem.csproj|solutionrelative:interfaces\\iexpirable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,34 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CheckoutService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Services\\CheckoutService.cs",
-              "RelativeDocumentMoniker": "Services\\CheckoutService.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Services\\CheckoutService.cs",
-              "RelativeToolTip": "Services\\CheckoutService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:19:06.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:41:29.642Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -160,39 +134,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Models\\CartItem.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\CartItem.cs",
-              "RelativeToolTip": "Models\\CartItem.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "Services\\CheckoutService.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Services\\CheckoutService.cs",
+              "RelativeToolTip": "Services\\CheckoutService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:47:34.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T19:19:06.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:41:29.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:47:34.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Customer.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Customer.cs",
               "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAIwB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:39:27.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ShippingService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Services\\ShippingService.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Services\\ShippingService.cs",
               "RelativeDocumentMoniker": "Services\\ShippingService.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Services\\ShippingService.cs",
-              "RelativeToolTip": "Services\\ShippingService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACMAAABSAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Services\\ShippingService.cs*",
+              "RelativeToolTip": "Services\\ShippingService.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T17:38:52.201Z",
               "EditorCaption": ""
@@ -201,102 +198,95 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IShippingService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IShippingService.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IShippingService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IShippingService.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IShippingService.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IShippingService.cs",
               "RelativeToolTip": "Interfaces\\IShippingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:37:42.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:37:42.462Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IShippable.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IShippable.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IShippable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IShippable.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IShippable.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IShippable.cs",
               "RelativeToolTip": "Interfaces\\IShippable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:30:22.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:30:22.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IExpirable.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IExpirable.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IExpirable.cs",
               "RelativeDocumentMoniker": "Interfaces\\IExpirable.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Interfaces\\IExpirable.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Interfaces\\IExpirable.cs",
               "RelativeToolTip": "Interfaces\\IExpirable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:29:56.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:29:56.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ExpirableShippableProduct.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ExpirableShippableProduct.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ExpirableShippableProduct.cs",
               "RelativeDocumentMoniker": "Models\\ExpirableShippableProduct.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ExpirableShippableProduct.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ExpirableShippableProduct.cs",
               "RelativeToolTip": "Models\\ExpirableShippableProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:28:47.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:28:47.374Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ShippableProduct.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ShippableProduct.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ShippableProduct.cs",
               "RelativeDocumentMoniker": "Models\\ShippableProduct.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ShippableProduct.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ShippableProduct.cs",
               "RelativeToolTip": "Models\\ShippableProduct.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:28:15.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:28:15.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ExpirableProduct.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
               "RelativeDocumentMoniker": "Models\\ExpirableProduct.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\ExpirableProduct.cs",
               "RelativeToolTip": "Models\\ExpirableProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:26:55.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:26:55.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Models\\Product.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T17:15:04.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T17:15:04.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T15:55:04.934Z",
               "EditorCaption": ""

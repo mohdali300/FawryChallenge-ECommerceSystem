@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\E-CommerceSystem.csproj": {}
+    "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\E-CommerceSystem.csproj": {
+    "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\E-CommerceSystem.csproj",
+        "projectUniqueName": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj",
         "projectName": "E-CommerceSystem",
-        "projectPath": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\E-CommerceSystem.csproj",
+        "projectPath": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\E-CommerceSystem.csproj",
         "packagesPath": "C:\\Users\\ECC\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\FawryInternship\\src\\E-CommerceSystem\\obj\\",
+        "outputPath": "D:\\Projects\\C#\\FawryInternship\\src\\FawryChallenge-ECommerceSystem\\E-CommerceSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Dev express\\Components\\Offline Packages",

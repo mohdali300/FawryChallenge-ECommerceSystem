@@ -1,0 +1,14 @@
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.exe
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.deps.json
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.runtimeconfig.json
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.dll
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.pdb
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfoInputs.cache
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfo.cs
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.csproj.CoreCompileInputs.cache
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.dll
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\refint\E-CommerceSystem.dll
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.pdb
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.genruntimeconfig.cache
+D:\Projects\C#\FawryInternship\src\E-CommerceSystem\obj\Debug\net8.0\ref\E-CommerceSystem.dll
